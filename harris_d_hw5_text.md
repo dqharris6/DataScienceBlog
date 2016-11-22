@@ -6,7 +6,7 @@ It's no question that underage college drinking poses significant public health 
 
 First, we took a look at which states report drinking the most. Rather than factoring in all states, we focused on Beer Marketer’s Insights’ “States That Drink the Most Beer” to narrow our scope to Maine, Mississippi, Montana, Nebraska, Nevada, New Hampshire, North Dakota, South Dakota, Texas, Vermont and Wisconsin. This decision eliminates factors such as religous affiliations (no suprise that Utah is one of the states with the lowest alcohol consumptions) and shipping costs of beer (taking out Hawaii and Alaska), and leaves us to analyze the states that we know are drinking the most. We note that New Hampshire (home of Dartmouth) is the only state containing an Ivy League school on our list, which consistently takes last place in overall academic performance comparitively.
 
-![map](https://github.com/dqharris6/DataScienceBlog/blob/master/map.jpg =1000x)
+![](https://github.com/dqharris6/DataScienceBlog/blob/master/map.jpg =250x)
 
 ### Alcohol Consumption in the US
 
