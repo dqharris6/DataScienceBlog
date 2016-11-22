@@ -1,4 +1,4 @@
-# Drinking vs. Graduating: A College Student's Guide to Studying on a Friday Night
+# Drinking vs. Graduating: A College Student's Guide to Staying In on Friday Night
 
 It's no question that underage college drinking poses significant public health problems, and takes an enormous toll on the intellectual and social lives of students on campuses across the United States. Drinking has become ritual for America's college students, as many see it as an integral part of their higher education. Students either have seasoned drinking habits in place upon entering college, or are eager to experiment with what they've been sheltered from in their first 18 years. Our visualization compares per capita alcohol consumption among college-age students per state to average 4-year college graduation rates per state, to answer the fundamental question: “How do Alcohol Use and College Graduation Rates correlate by State?”.
 
